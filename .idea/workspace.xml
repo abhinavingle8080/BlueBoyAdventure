@@ -4,65 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1be930c-9a77-459e-8a23-ea03b5a05fc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/BlueBoyAdventure.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firstgame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/maps/interior01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/maps/world01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/maps/worldV2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/maps/worldV3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/BlueBoyAdventure.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/Dungeon.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/FinalBattle.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/Merchant.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/blocked.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/burning.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/chipwall.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/coin.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/cursor.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/cuttree.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/dooropen.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/fanfare.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/gameover.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/hitmonster.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/levelup.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/parry.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/powerup.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/receivedamage.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/sleep.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/speak.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/stairs.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/sound/unlock.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/earth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/grass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/sand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/wall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/tiles/water.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entity/Player_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/AssetSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/CollisonChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/KeyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Sound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Boots.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Chest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/OBJ_Key.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object/SuperObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tile/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tile/TileManager.java" afterDir="false" />
-    </list>
+    <list default="true" id="e1be930c-9a77-459e-8a23-ea03b5a05fc9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,21 +30,22 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Abhi/my_code/my_projects/firstgame",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Abhi\My Code\My Projects\firstgame\res\maps" />
@@ -151,6 +94,7 @@
       <workItem from="1703095101657" duration="243000" />
       <workItem from="1703095362284" duration="784000" />
       <workItem from="1703229924507" duration="173000" />
+      <workItem from="1703270442066" duration="331000" />
     </task>
     <servers />
   </component>
